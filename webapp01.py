@@ -11,12 +11,12 @@ st.title("LULA 2022")
 st.header("Motivos para tirar o Bolsonaro da presidencia")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Motivos para tirar o JR Bolsonaro da presidencia ")
+st.subheader(" O governo não pode dar educação,porque a educação derruba o governo!!! ")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Como já deve ter percebido, JR bolsonaro zomba de assuntos serios e tem falas homofobicas,racistas,machistas e etc...")
 
-st.subheader("------ **Desenvolvido por: Massaki de O. Igarashi** -----")
+st.subheader("------ **Desenvolvido por:MAIA** -----")
 
 menu = ["Texto_Colunas",
         "Texto_Markdown",
