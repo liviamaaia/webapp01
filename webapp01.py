@@ -18,7 +18,7 @@ st.write("Como já deve ter percebido, JR bolsonaro zomba de assuntos serios e t
 
 st.subheader("------ **Desenvolvido por:MAIA** -----")
 
-menu = ["Texto_Colunas",
+menu = ["O PT vai mobilizar todos os militantes e dirigentes da legenda e convoca a sociedade ao protesto que será realizado na próxima sexta-feira, dia 10 de julho, pelo impeachment do presidente Jair Bolsonaro. A campanha ‘Fora Bolsonaro’ é considerada prioridade pelo partido. Os movimentos sociais, a oposição e organizações da sociedade civil já estão com o site campanhaforabolsonaro.org.br, coletando inclusive assinaturas em apoio ao impeachment do presdiente da República.Texto_Colunas",
         "Texto_Markdown",
         "Inserir_Figura"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
