@@ -16,9 +16,12 @@ st.subheader(" O governo não pode dar educação,porque a educação derruba o 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, JR bolsonaro zomba de assuntos serios e tem falas homofobicas,racistas,machistas e etc...")
 
-st.subheader("------ **Desenvolvido por:MAIA** -----")
+st.subheader("------ **Desenvolvido por:MAIA** -----
+             
+             
+             Enquanto o Brasil ponteia a liderança mundial no número mortos pelo Covid-19, Bolsonaro lidera um governo incapaz de conviver com a democracia e de atender às reais necessidades do povo brasileiro”, diz a nota distribuída pelos dirigentes do PT aos diretórios municipais e estaduais da sigla.")
 
-menu = ["O PT vai mobilizar todos os militantes e dirigentes da legenda e convoca a sociedade ao protesto que será realizado na próxima sexta-feira, dia 10 de julho, pelo impeachment do presidente Jair Bolsonaro. A campanha ‘Fora Bolsonaro’ é considerada prioridade pelo partido. Os movimentos sociais, a oposição e organizações da sociedade civil já estão com o site campanhaforabolsonaro.org.br, coletando inclusive assinaturas em apoio ao impeachment do presdiente da República.Texto_Colunas",
+menu = [" do presidente Jair Bolsonaro. A campanha ‘Fora Bolsonaro’ é considerada prioridade pelo partido. Os movimentos sociais, a oposição e organizações da sociedade civil já estão com o site campanhaforabolsonaro.org.br, coletando inclusive assinaturas em apoio ao impeachment do presdiente da República.Texto_Colunas",
         "Texto_Markdown",
         "Inserir_Figura"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
